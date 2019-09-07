@@ -1,0 +1,6 @@
+yes,no
+true,false
+yes,yes
+ok,sure
+yes,yes
+yes,yes
